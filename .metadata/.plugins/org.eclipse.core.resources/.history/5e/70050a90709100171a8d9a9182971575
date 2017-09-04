@@ -1,0 +1,22 @@
+package edu.ap.bol;
+
+import org.restlet.resource.Get;
+import org.restlet.resource.Post;
+import org.restlet.resource.ServerResource;
+
+import edu.ap.xml.XMLParser;
+
+public class OrderResource extends ServerResource{
+	@Post("txt")
+	public String addPatient(String patient){
+		XMLParser parser = new XMLParser();
+		System.out.println("Make XMLParser in Resource");
+		return parser.addOrder(patient);
+	}
+	
+	@Get("html")
+	public String getPatients(){
+		XMLParser parser = new XMLParser();
+		return parser.getOrders();
+	}
+}

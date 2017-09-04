@@ -1,0 +1,35 @@
+package edu.ap.bol;
+
+import org.restlet.resource.ClientResource;
+
+public class OrderClient {
+
+	public static void main(String[] args) {
+		try{
+			ClientResource resource = new ClientResource("http://localhost:8181/ordersystem/registration");
+			String order1 = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>";
+			order1 += "<order client=\"Michelle\" id=\"1\">";
+			order1 += "<address>Perziklaan 183, 2850 Boom</address>";
+			order1 += "<date>03/09/2017</date>";
+			order1 += "<product>Tandenborstel</product>";
+			order1 += "<quantity>2</quantity>";
+			order1 += "</order>";
+			resource.post(order1);
+			
+			String order2 = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>";
+			order2 += "<order client=\"Caroline\" id=\"2\">";
+			order2 += "<address>Bananenlaan 15, 2850 Boom</address>";
+			order2 += "<date>01/09/2017</date>";
+			order2 += "<product>Stoel</product>";
+			order2 += "<quantity>4</quantity>";
+			order2 += "</order>";
+			resource.post(order2);
+			
+			//get the response
+			System.out.println(resource.getResponseEntity().getText());
+		}
+		catch(Exception ex){
+			System.out.println(ex.getMessage());
+		}
+	}
+}

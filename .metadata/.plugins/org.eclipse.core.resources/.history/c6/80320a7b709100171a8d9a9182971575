@@ -1,0 +1,7 @@
+package edu.ap.bol;
+
+import org.restlet.resource.ServerResource;
+
+public class OrderResource extends ServerResource{
+
+}
