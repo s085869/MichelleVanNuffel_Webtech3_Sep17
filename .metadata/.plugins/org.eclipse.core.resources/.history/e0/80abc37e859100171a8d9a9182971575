@@ -1,0 +1,27 @@
+package edu.ap.product;
+
+import java.util.ArrayList;
+
+import edu.ap.json.TXTParser;
+
+public class ProductResource {
+
+	@SuppressWarnings("null")
+	@Get("html")
+	public ArrayList<String> getQuote(String filter){
+		TXTParser parser = new TXTParser();
+		ArrayList<String> result = new ArrayList<String>();
+		
+		try{
+			for(String quote : parser.getQuote(filter)){
+				result.add(quote);
+			}
+			
+		}
+		catch(Exception ex){
+			System.out.println(ex.getMessage());
+		}
+		
+		return result;
+	}
+}

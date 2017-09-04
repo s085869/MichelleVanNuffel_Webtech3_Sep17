@@ -1,0 +1,24 @@
+package edu.ap.product;
+
+public class ProductResource {
+	private String INPUTFILE = "C:/MichelleVanNuffel_Webtech3_Sep17/Vraag2/products.json";
+	
+	@SuppressWarnings("null")
+	@Get("html")
+	public ArrayList<String> getQuote(String filter){
+		TXTParser parser = new TXTParser();
+		ArrayList<String> result = new ArrayList<String>();
+		
+		try{
+			for(String quote : parser.getQuote(filter)){
+				result.add(quote);
+			}
+			
+		}
+		catch(Exception ex){
+			System.out.println(ex.getMessage());
+		}
+		
+		return result;
+	}
+}

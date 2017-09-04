@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="javax.xml.transform.TransformerFactory"/>
+<fullyQualifiedTypeName name="javax.xml.transform.Transformer"/>
+<fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
+<fullyQualifiedTypeName name="javax.xml.transform.stream.StreamResult"/>
+<fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+<fullyQualifiedTypeName name="org.xml.sax.InputSource"/>
+<fullyQualifiedTypeName name="java.io.StringReader"/>
+<fullyQualifiedTypeName name="javax.xml.transform.OutputKeys"/>
+<fullyQualifiedTypeName name="java.io.StringWriter"/>
+<fullyQualifiedTypeName name="java.io.Writer"/>
+<fullyQualifiedTypeName name="org.restlet.resource.Post"/>
+<fullyQualifiedTypeName name="edu.ap.xml.XMLParser"/>
+<fullyQualifiedTypeName name="org.restlet.Component"/>
+<fullyQualifiedTypeName name="org.restlet.data.Protocol"/>
+<fullyQualifiedTypeName name="org.restlet.resource.ClientResource"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="org.restlet.resource.Get"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="edu.ap.json.TXTParser"/>
+<fullyQualifiedTypeName name="org.restlet.Application"/>
+<fullyQualifiedTypeName name="org.restlet.Restlet"/>
+<fullyQualifiedTypeName name="org.restlet.routing.Router"/>
+<fullyQualifiedTypeName name="org.restlet.resource.ServerResource"/>
+</qualifiedTypeNameHistroy>

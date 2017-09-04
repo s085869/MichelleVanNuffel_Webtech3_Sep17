@@ -1,0 +1,34 @@
+package edu.ap.product;
+
+public class ProductsResource {
+	
+	public String getProducts(){
+		String htmlString = "<html><body>";
+	
+		try
+		{
+			InputStream input = new FileInputStream(FILE);
+			JsonReader reader = Json.createReader(input);
+			JsonObject object = reader.readObject();
+			JsonArray array = object.getJsonArray("products");
+		
+			for(int i = 0 ; i < array.size(); i++)
+			{
+				JsonObject obj = array.getJsonObject(i);
+			
+				htmlString += "<b>Name : " + obj.getString("name") + "</b><br>";
+				htmlString += "ID : " + obj.getString("id") + "<br>";
+				htmlString += "Brand : " + obj.getString("brand") + "<br>";
+				htmlString += "Description : " + obj.getString("description") + "<br>";
+				htmlString += "Price : " + obj.getString("price") + "<br>";
+				htmlString += "<br><br>";
+			}
+		}
+		catch(Exception ex)
+		{
+			htmlString += ex.getMessage();
+		}
+	
+		return htmlString + "</body></html>";
+	}
+}

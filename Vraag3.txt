@@ -1,0 +1,2 @@
+Een webservice is een service die volledig zelfstandig kan runnen via internet. Hiervoor gebruikt het XML. 
+Hiermee worden CRUD (create, read, update, delete) operaties uitgevoerd onafhankelijk van de programmeertaal of het besturingssysteem.
