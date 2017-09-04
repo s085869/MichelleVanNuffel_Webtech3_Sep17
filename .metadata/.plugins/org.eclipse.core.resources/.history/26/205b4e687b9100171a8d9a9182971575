@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml encoding="UTF-8" standalone="yes" version="1.0">
+	<order client="Jefke" id="1">
+		<address>Appelweg 63, 2850 Boom</address>
+		<date>04/09/2017</date>
+		<product>Deken</product>
+		<quantity>10</quantity>
+	</order>
+<order client="Michelle" id="1"><address>Perziklaan 183, 2850 Boom</address><date>03/09/2017</date><product>Tandenborstel</product><quantity>2</quantity></order><order client="Caroline" id="2"><address>Bananenlaan 15, 2850 Boom</address><date>01/09/2017</date><product>Stoel</product><quantity>4</quantity></order><order client="Michelle" id="1"><address>Perziklaan 183, 2850 Boom</address><date>03/09/2017</date><product>Tandenborstel</product><quantity>2</quantity></order><order client="Caroline" id="2"><address>Bananenlaan 15, 2850 Boom</address><date>01/09/2017</date><product>Stoel</product><quantity>4</quantity></order><order client="Michelle" id="1"><address>Perziklaan 183, 2850 Boom</address><date>03/09/2017</date><product>Tandenborstel</product><quantity>2</quantity></order><order client="Caroline" id="2"><address>Bananenlaan 15, 2850 Boom</address><date>01/09/2017</date><product>Stoel</product><quantity>4</quantity></order></xml>

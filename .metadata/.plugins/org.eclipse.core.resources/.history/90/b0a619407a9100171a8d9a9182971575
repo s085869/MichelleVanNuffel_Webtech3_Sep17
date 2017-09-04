@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml encoding="UTF-8" standalone="yes" version="1.0">
+	<order 
+		client="Jefke" 
+		id="1"
+		address="Appelweg 63, 2850 Boom"
+		date="04/09/2017"
+		product="Deken"
+		quantity="10"
+	></order>
+</xml>
