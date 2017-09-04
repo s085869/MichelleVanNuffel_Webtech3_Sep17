@@ -1,0 +1,295 @@
+!SESSION 2017-09-04 14:18:23.378 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=nl_BE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:31.828
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = ICMDContributor, interface = com.sap.it.cmd.provider.ICMDContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindCMDFeature, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:31.899
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = CapabilityCMDProvider, interface = com.sap.it.cmd.provider.CapabilityCMDProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindCapabilityCMDProvider, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.192
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IConnectionProperties, interface = com.sap.it.ds.intrsp.md.api.IConnectionProperties, policy = dynamic, cardinality = 0..n, target = null, bind = bindConnectionProperties, unbind = unbindConnectionProperties]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.226
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IDataSource, interface = com.sap.it.ds.intrsp.md.api.IDataSource, policy = dynamic, cardinality = 0..n, target = null, bind = bindDataSource, unbind = unbindDataSource]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.245
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IQueryBuilder, interface = com.sap.it.ds.intrsp.md.api.service.IQueryBuilderService, policy = dynamic, cardinality = 0..n, target = null, bind = bindQueryBuilder, unbind = unbindQueryBuilder]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.265
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IMetadataService, interface = com.sap.it.ds.intrsp.md.api.service.IMetadataService, policy = dynamic, cardinality = 0..n, target = null, bind = bindMetadataService, unbind = unbindMetadataService]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.283
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = ICertManagerFacade, interface = com.sap.it.ds.intrsp.md.api.ICertManagerFacade, policy = dynamic, cardinality = 0..n, target = null, bind = bindCertManager, unbind = unbindCertManager]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.646
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IPostGeneratorHandler, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IPostGeneratorHandler, policy = dynamic, cardinality = 0..n, target = null, bind = bindPostGenerationHandler, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.665
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IFlowReferenceResolverImpl, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IResourceProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindIFlowReferenceResolver, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:32.766
+!MESSAGE Could not bind a reference of component com.sap.it.core.ifl.common.ssc.nodeprofile. The reference is: Reference[name = NodeStackProfileAccess, interface = com.sap.it.nm.profile.NodeStackProfileAccess, policy = dynamic, cardinality = 0..1, target = null, bind = bindNodeStackProfileAccess, unbind = unbindNodeStackProfileAccess]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:33.144
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.manifest.manager. The reference is: Reference[name = IManifestHandler, interface = com.sap.it.gnb.ifl.common.manifest.IManifestHandler, policy = dynamic, cardinality = 0..1, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:33.288
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common. The reference is: Reference[name = IExternalPropertySource, interface = com.sap.it.ifl.core.common.param.IExternalPropertySource, policy = dynamic, cardinality = 0..1, target = null, bind = bindExternalPropertySource, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:34.137
+!MESSAGE Could not bind a reference of component com.sap.it.ide.ifl.avatar.runtime.load.WsdlGenerator. The reference is: Reference[name = WsdlGeneratorReference, interface = com.sap.it.gnb.ifl.wsdl.generator.api.IWsdlGenerator, policy = dynamic, cardinality = 0..1, target = null, bind = setWsdlGenerator, unbind = unsetWsdlGenerator]
+
+!ENTRY com.sap.ndb.studio.xse.editor 4 0 2017-09-04 14:18:36.742
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: com.sap.ndb.studio.xse.editor [1680]
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource com.sap.ndb.studio.xse.editor [osgi.identity; osgi.identity="com.sap.ndb.studio.xse.editor"; type="osgi.bundle"; version:Version="2.3.5"; singleton:="true"] because it is exposed to package 'org.mozilla.javascript' from resources org.mozilla.javascript [osgi.identity; osgi.identity="org.mozilla.javascript"; type="osgi.bundle"; version:Version="1.7.4.v201504221540"] and org.mozilla.javascript [osgi.identity; osgi.identity="org.mozilla.javascript"; type="osgi.bundle"; version:Version="1.7.2.v201005080400"] via two dependency chains.
+
+Chain 1:
+  com.sap.ndb.studio.xse.editor [osgi.identity; osgi.identity="com.sap.ndb.studio.xse.editor"; type="osgi.bundle"; version:Version="2.3.5"; singleton:="true"]
+    require: (&(osgi.wiring.bundle=org.mozilla.javascript)(bundle-version>=1.7.4))
+     |
+    provide: osgi.wiring.bundle: org.mozilla.javascript
+  org.mozilla.javascript [osgi.identity; osgi.identity="org.mozilla.javascript"; type="osgi.bundle"; version:Version="1.7.4.v201504221540"]
+
+Chain 2:
+  com.sap.ndb.studio.xse.editor [osgi.identity; osgi.identity="com.sap.ndb.studio.xse.editor"; type="osgi.bundle"; version:Version="2.3.5"; singleton:="true"]
+    require: (osgi.wiring.bundle=com.googlecode.jslint4java)
+     |
+    provide: osgi.wiring.bundle; bundle-version:Version="2.0.5"; osgi.wiring.bundle="com.googlecode.jslint4java"
+  com.googlecode.jslint4java [osgi.identity; osgi.identity="com.googlecode.jslint4java"; type="osgi.bundle"; version:Version="2.0.5"]
+    import: (osgi.wiring.package=org.mozilla.javascript)
+     |
+    export: osgi.wiring.package: org.mozilla.javascript
+  org.mozilla.javascript [osgi.identity; osgi.identity="org.mozilla.javascript"; type="osgi.bundle"; version:Version="1.7.2.v201005080400"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-09-04 14:18:37.101
+!MESSAGE Could not bind a reference of component com.sap.it.mapping.mm.serializer.factory. The reference is: Reference[name = Serializer, interface = com.sap.it.mapping.mm.serializer.Serializer, policy = dynamic, cardinality = 0..n, target = null, bind = addSerializer, unbind = removeSerializer]
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2017-09-04 14:19:01.329
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+!ENTRY org.eclipse.emf.ecore 2 0 2017-09-04 14:19:07.563
+!MESSAGE Both 'com.sap.adt.datapreview.core.model' and 'com.sap.adt.datapreview.core.model' register an extension parser for 'model'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2017-09-04 14:19:07.585
+!MESSAGE Both 'com.sap.bw.qd.model' and 'com.sap.ndb.studio.bi.model' register an extension parser for 'variable'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2017-09-04 14:19:07.607
+!MESSAGE Both 'com.sap.ide.ui5.ctrl.metamodel' and 'com.sap.ndb.studio.model.data' register an extension parser for 'type'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2017-09-04 14:19:07.629
+!MESSAGE Both 'com.sap.bw.qd.model' and 'com.sap.ndb.studio.model.data' register an extension parser for 'filter'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2017-09-04 14:19:07.651
+!MESSAGE Both 'com.sap.adt.ddic.view' and 'com.sap.ndb.studio.view.model' register an extension parser for 'view'
+
+!ENTRY org.eclipse.jface 2 0 2017-09-04 14:20:19.839
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:20:19.840
+!MESSAGE A conflict occurred for CTRL+SHIFT+F3:
+Binding(CTRL+SHIFT+F3,
+	ParameterizedCommand(Command(com.sap.bw.menu.ui.SingleActivationCommand,Activate BW Object,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6aff891f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+F3,
+	ParameterizedCommand(Command(org.eclipse.xtext.ui.shared.OpenXtextElementCommand,Open Model Element,
+		Open the declaration of an Xtext element,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f58e7d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:20:19.840
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.contextbind,Bind to context,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4289feba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(com.sap.bw.preview.refresh,Refresh Data Preview,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ed343ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:20:19.840
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.moveup,Move Up UiElement,
+		Move Up menu item for providing the accessibility product standard for Drag and Drop functionality in WDA View Outline page.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@58f28c5e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.featureExecutionCommand,Feature execution,
+		Execute a custom feature on selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20ecbeda,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@2d1df853,,true),[Lorg.eclipse.core.commands.Parameterization;@79052209),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:20:19.840
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.movedown,Move Down,
+		Move Down menu item for providing the accessibility product standard for Drag and Drop functionality in WDA View Outline page.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35d9d10b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.featureExecutionCommand,Feature execution,
+		Execute a custom feature on selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@20ecbeda,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@2d1df853,,true),[Lorg.eclipse.core.commands.Parameterization;@7006b304),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:20:19.840
+!MESSAGE A conflict occurred for ALT+SHIFT+Q U:
+Binding(ALT+SHIFT+Q U,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@321b0237,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@62de6b17,,true),[Lorg.eclipse.core.commands.Parameterization;@19f4bfce),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+Q U,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@321b0237,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@62de6b17,,true),[Lorg.eclipse.core.commands.Parameterization;@5c2fb167),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-04 14:22:36.900
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Michelle'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2017-09-04 14:23:25.321
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:23:25.322
+!MESSAGE A conflict occurred for ALT+CTRL+P:
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.eclipse.wst.server.publish,Publish,
+		Publish to server,
+		Category(org.eclipse.wst.server.ui,Server,Server,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@44798d81,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.serverViewScope,,,system)
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(com.sap.adt.tools.abapsource.ui.showOpenInProjectMenu,Show 'Open In Project' Menu,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@605d67f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.sap.adt.tools.core.ui.abap,,,system)
+Binding(ALT+CTRL+P,
+	ParameterizedCommand(Command(org.eclipse.m2e.profiles.ui.commands.selectMavenProfileCommand,Select Maven Profiles,
+		,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e56373e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2017-09-04 14:23:29.698
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:23:29.698
+!MESSAGE A conflict occurred for DEL:
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@756695e3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@756695e3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:23:29.698
+!MESSAGE A conflict occurred for CTRL+,:
+Binding(CTRL+,,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.previous,Previous,
+		Navigate to the previous item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b961cb6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+,,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.previous,Navigate to the previous item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27f619e9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-09-04 14:23:29.698
+!MESSAGE A conflict occurred for CTRL+.:
+Binding(CTRL+.,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.next,Next,
+		Navigate to the next item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45c721b8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+.,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.next,Navigate to the next item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f329350,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
