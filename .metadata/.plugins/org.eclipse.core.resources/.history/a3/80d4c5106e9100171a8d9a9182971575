@@ -1,0 +1,5 @@
+package edu.ap.xml;
+
+public class XMLParser {
+	private String INPUTFILE = "C:/Users/Michelle/Documents/Webtech3Again/Workspace/Examen_Webtech3_Jan17_Vraag1/spoedgevallen.xml";
+}

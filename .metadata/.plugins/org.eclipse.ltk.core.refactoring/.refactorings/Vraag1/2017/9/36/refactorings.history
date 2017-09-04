@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;patients&apos; in &apos;edu.ap.xml.XMLParser.getOrders()&apos; to &apos;orders&apos;&#x0D;&#x0A;- Original project: &apos;Vraag1&apos;&#x0D;&#x0A;- Original element: &apos;edu.ap.xml.XMLParser.getOrders().patients&apos;&#x0D;&#x0A;- Renamed element: &apos;patients&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;patients&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;edu.ap.xml{XMLParser.java[XMLParser~getOrders@patients!1213!1268!1222!1229!QNodeList;!0!false" name="orders" references="true" stamp="1504528928889" version="1.0"/>
+</session>

@@ -293,3 +293,600 @@ Binding(CTRL+.,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.dialog,,,system)
+
+!ENTRY com.sap.ide.ui5.services 1 1 2017-09-04 14:28:52.031
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.preferences.UI5LibrariesRegistry
+   Method     : getBundleNamesUI5CoreLibs
+   Message    : found UI libraries null
+   Exception  : 
+
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:17.415
+!MESSAGE input stream[Ljava.io.File;@71afbcdf
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:17.439
+!MESSAGE input streamiflmap
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:17.461
+!MESSAGE listofcmdsC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:17.491
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\AggregatorMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.554
+!MESSAGE Component Metadata Reference is not nullAggregator|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.589
+!MESSAGE bpmnstreamjava.io.FileInputStream@5f0f32db
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.615
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:17.647
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\AribaComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.676
+!MESSAGE Component Metadata Reference is not nullAriba|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.704
+!MESSAGE bpmnstreamjava.io.FileInputStream@389c008d
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:17.737
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:19.470
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Base64DecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:19.585
+!MESSAGE Component Metadata Reference is not nullDecoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:19.613
+!MESSAGE bpmnstreamjava.io.FileInputStream@6b98e4ed
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:19.723
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:19.767
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Base64EncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:19.850
+!MESSAGE Component Metadata Reference is not nullEncoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:19.948
+!MESSAGE bpmnstreamjava.io.FileInputStream@702e1755
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.028
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:20.203
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ContentModifier.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.349
+!MESSAGE Component Metadata Reference is not nullContentModifier|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.376
+!MESSAGE bpmnstreamjava.io.FileInputStream@4eabfdb3
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.407
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:20.439
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Converter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.517
+!MESSAGE Component Metadata Reference is not nullConverter|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.573
+!MESSAGE bpmnstreamjava.io.FileInputStream@5b9c35ff
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.609
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:20.680
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\DBStorage.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.756
+!MESSAGE Component Metadata Reference is not nullDataStore|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.795
+!MESSAGE bpmnstreamjava.io.FileInputStream@757cd3b
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.862
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:20.923
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Decryptor.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:20.957
+!MESSAGE Component Metadata Reference is not nullDecryptor|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.020
+!MESSAGE bpmnstreamjava.io.FileInputStream@46d2e34b
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.099
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:21.168
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Encryptor.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.215
+!MESSAGE Component Metadata Reference is not nullEncryptor|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.242
+!MESSAGE bpmnstreamjava.io.FileInputStream@1f6318f9
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.281
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:21.331
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\EscalationEndEventMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.379
+!MESSAGE Component Metadata Reference is not nullEscalationEnd|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.430
+!MESSAGE bpmnstreamjava.io.FileInputStream@6da4d27c
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.461
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:21.506
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\FacebookComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.563
+!MESSAGE Component Metadata Reference is not nullFacebook|SAP|external|1.0.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.619
+!MESSAGE bpmnstreamjava.io.FileInputStream@29fe1aa3
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.658
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:21.761
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Filter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.807
+!MESSAGE Component Metadata Reference is not nullFilter|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.856
+!MESSAGE bpmnstreamjava.io.FileInputStream@64f90832
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:21.885
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:21.971
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Gateway.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.042
+!MESSAGE Component Metadata Reference is not nullGateway|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.071
+!MESSAGE bpmnstreamjava.io.FileInputStream@50814668
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.105
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:22.181
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Gather.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.235
+!MESSAGE Component Metadata Reference is not nullGather|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.275
+!MESSAGE bpmnstreamjava.io.FileInputStream@38652ae0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.321
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:22.350
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\GZIPDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.446
+!MESSAGE Component Metadata Reference is not nullDecoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.516
+!MESSAGE bpmnstreamjava.io.FileInputStream@3d004a82
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.551
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:22.592
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\GZIPEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.684
+!MESSAGE Component Metadata Reference is not nullEncoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.767
+!MESSAGE bpmnstreamjava.io.FileInputStream@3ca8083e
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.797
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:22.824
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\HTTPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.861
+!MESSAGE Component Metadata Reference is not nullHTTP|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.963
+!MESSAGE bpmnstreamjava.io.FileInputStream@2a4c63c1
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:22.999
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:23.071
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\HttpSenderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.182
+!MESSAGE Component Metadata Reference is not nullHTTPS|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.239
+!MESSAGE bpmnstreamjava.io.FileInputStream@50d8d6c6
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.297
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:23.327
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\IDocComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.373
+!MESSAGE Component Metadata Reference is not nullIDOC|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.449
+!MESSAGE bpmnstreamjava.io.FileInputStream@4b3d199
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.557
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:23.693
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\IflowConfiguration.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.775
+!MESSAGE Component Metadata Reference is not nullIFlowConfiguration|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:23.921
+!MESSAGE bpmnstreamjava.io.FileInputStream@41f7f175
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:24.034
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:24.195
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MailComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:24.396
+!MESSAGE Component Metadata Reference is not nullMail|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:24.535
+!MESSAGE bpmnstreamjava.io.FileInputStream@2d44319f
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:24.654
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:24.722
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Mapping.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:24.804
+!MESSAGE Component Metadata Reference is not nullMapping|sap|external|1.1
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.019
+!MESSAGE bpmnstreamjava.io.FileInputStream@1e29ff37
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.147
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:25.171
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MessageDigest.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.196
+!MESSAGE Component Metadata Reference is not nullMessageDigest|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.266
+!MESSAGE bpmnstreamjava.io.FileInputStream@4093f9be
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.295
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:25.395
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MIMEMultipartDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.445
+!MESSAGE Component Metadata Reference is not nullDecoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.623
+!MESSAGE bpmnstreamjava.io.FileInputStream@6cb7a3d0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.651
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:25.704
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MIMEMultipartEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.820
+!MESSAGE Component Metadata Reference is not nullEncoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.911
+!MESSAGE bpmnstreamjava.io.FileInputStream@54777533
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:25.963
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:25.989
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Multicast.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:26.016
+!MESSAGE Component Metadata Reference is not nullGateway|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:26.242
+!MESSAGE bpmnstreamjava.io.FileInputStream@3f70343d
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:29.758
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:29.811
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ODataSenderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:29.838
+!MESSAGE Component Metadata Reference is not nullODataSender|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:29.868
+!MESSAGE bpmnstreamjava.io.FileInputStream@5b3ba131
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:29.896
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:29.933
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Persist.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:29.981
+!MESSAGE Component Metadata Reference is not nullPersist|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.015
+!MESSAGE bpmnstreamjava.io.FileInputStream@b5f9368
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.054
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:30.108
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ProcessCall.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.137
+!MESSAGE Component Metadata Reference is not nullProcessCallElement|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.207
+!MESSAGE bpmnstreamjava.io.FileInputStream@b674898
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.235
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:30.274
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Script.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.363
+!MESSAGE Component Metadata Reference is not nullScript|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.396
+!MESSAGE bpmnstreamjava.io.FileInputStream@39c24efd
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.497
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:30.600
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ServiceTask.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.750
+!MESSAGE Component Metadata Reference is not nullServiceTask|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:30.897
+!MESSAGE bpmnstreamjava.io.FileInputStream@2c462daf
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.040
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:31.193
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SFSFComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.384
+!MESSAGE Component Metadata Reference is not nullSuccessFactors|sap|external|1.1
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.462
+!MESSAGE bpmnstreamjava.io.FileInputStream@c02c563
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.525
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:31.623
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SFTPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.732
+!MESSAGE Component Metadata Reference is not nullSFTP|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.815
+!MESSAGE bpmnstreamjava.io.FileInputStream@60dc295
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:31.946
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:32.081
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerPKCS7.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:32.263
+!MESSAGE Component Metadata Reference is not nullSigner|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:32.445
+!MESSAGE bpmnstreamjava.io.FileInputStream@70e6138a
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:32.513
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:32.664
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerSimple.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:32.865
+!MESSAGE Component Metadata Reference is not nullSigner|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:32.996
+!MESSAGE bpmnstreamjava.io.FileInputStream@61d990f1
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.167
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:33.276
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerXMLDigital.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.374
+!MESSAGE Component Metadata Reference is not nullSigner|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.478
+!MESSAGE bpmnstreamjava.io.FileInputStream@1b4eabf3
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.647
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:33.803
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SOAPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.911
+!MESSAGE Component Metadata Reference is not nullSOAP|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:33.955
+!MESSAGE bpmnstreamjava.io.FileInputStream@410647c7
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:34.003
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:34.065
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Splitter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.474
+!MESSAGE Component Metadata Reference is not nullSplitter|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.526
+!MESSAGE bpmnstreamjava.io.FileInputStream@4232c3f0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.584
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:37.610
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\System.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.653
+!MESSAGE Component Metadata Reference is not nullSystem|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.715
+!MESSAGE bpmnstreamjava.io.FileInputStream@77fed9dd
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.752
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:37.838
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\TwitterComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.908
+!MESSAGE Component Metadata Reference is not nullTwitter|SAP|external|1.0.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.931
+!MESSAGE bpmnstreamjava.io.FileInputStream@157fd921
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:37.959
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:37.996
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Verifier.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.080
+!MESSAGE Component Metadata Reference is not nullVerifySign|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.187
+!MESSAGE bpmnstreamjava.io.FileInputStream@15818812
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.296
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:38.325
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\WriteVariables.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.372
+!MESSAGE Component Metadata Reference is not nullVariables|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.404
+!MESSAGE bpmnstreamjava.io.FileInputStream@11bd0cee
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.443
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:38.475
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\XmlValidator.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.580
+!MESSAGE Component Metadata Reference is not nullXmlValidator|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.685
+!MESSAGE bpmnstreamjava.io.FileInputStream@32002bfa
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.713
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:38.768
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ZIPDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:38.930
+!MESSAGE Component Metadata Reference is not nullDecoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:39.039
+!MESSAGE bpmnstreamjava.io.FileInputStream@30a11adc
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:41.194
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 1 0 2017-09-04 14:29:41.236
+!MESSAGE input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ZIPEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:41.262
+!MESSAGE Component Metadata Reference is not nullEncoder|sap|external|1.0
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:41.297
+!MESSAGE bpmnstreamjava.io.FileInputStream@30379124
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:41.378
+!MESSAGE component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+
+!ENTRY com.sap.it.ide.rt.profiles 4 0 2017-09-04 14:29:42.237
+!MESSAGE Unable to fetch list of tenants
+[Command][CommandClient][ServerNotConfigured]:Failed to create command Client. Server is not configured.
+!STACK 0
+com.sap.it.commons.command.eclipsechannel.ServerNotConfiguredException: [Command][CommandClient][ServerNotConfigured]:Failed to create command Client. Server is not configured.
+	at com.sap.it.commons.command.eclipsechannel.simplepref.controls.HttpServerConnection.createSynchronousProcessor(HttpServerConnection.java:180)
+	at com.sap.it.commons.command.eclipsechannel.backend.impl.BackendCommandDispatcherFactoryImpl.grantBackendCommandDispatcher(BackendCommandDispatcherFactoryImpl.java:92)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher.fetchAllRTProfiles(RuntimeProfilesFetcher.java:116)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher.fetchAllRTProfiles(RuntimeProfilesFetcher.java:102)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher$9.run(RuntimeProfilesFetcher.java:729)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:167)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:165)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)

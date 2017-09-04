@@ -7,3 +7,228 @@ EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 14:23:25,415  WARN workbench:84 - org.eclipse.ui.workbench - org.eclipse.jface - 0 - Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 14:23:29,717  WARN workbench:84 - org.eclipse.ui.workbench - org.eclipse.jface - 0 - Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+14:28:52,082  INFO services:84 - com.sap.ide.ui5.services - 1 - Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.preferences.UI5LibrariesRegistry
+   Method     : getBundleNamesUI5CoreLibs
+   Message    : found UI libraries null
+   Exception  :
+14:29:17,436  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input stream[Ljava.io.File;@71afbcdf
+14:29:17,457  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamiflmap
+14:29:17,483  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - listofcmdsC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd
+14:29:17,525  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\AggregatorMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:17,586 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullAggregator|sap|external|1.0
+14:29:17,608 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@5f0f32db
+14:29:17,633 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:17,667  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\AribaComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:17,702 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullAriba|sap|external|1.0
+14:29:17,724 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@389c008d
+14:29:17,801 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:19,539  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Base64DecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:19,609 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDecoder|sap|external|1.0
+14:29:19,718 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@6b98e4ed
+14:29:19,762 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:19,844  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Base64EncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:19,945 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEncoder|sap|external|1.0
+14:29:20,023 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@702e1755
+14:29:20,193 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:20,341  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ContentModifier.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:20,374 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullContentModifier|sap|external|1.0
+14:29:20,400 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@4eabfdb3
+14:29:20,430 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:20,493  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Converter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:20,570 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullConverter|sap|external|1.0
+14:29:20,599 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@5b9c35ff
+14:29:20,673 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:20,748  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\DBStorage.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:20,792 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDataStore|sap|external|1.0
+14:29:20,854 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@757cd3b
+14:29:20,915 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:20,950  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Decryptor.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:21,017 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDecryptor|sap|external|1.0
+14:29:21,091 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@46d2e34b
+14:29:21,160 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:21,205  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Encryptor.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:21,240 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEncryptor|sap|external|1.0
+14:29:21,272 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@1f6318f9
+14:29:21,325 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:21,375  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\EscalationEndEventMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:21,428 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEscalationEnd|sap|external|1.0
+14:29:21,450 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@6da4d27c
+14:29:21,497 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:21,551  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\FacebookComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:21,617 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullFacebook|SAP|external|1.0.0
+14:29:21,641 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@29fe1aa3
+14:29:21,713 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:21,797  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Filter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:21,853 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullFilter|sap|external|1.0
+14:29:21,877 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@64f90832
+14:29:21,964 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:22,036  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Gateway.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:22,069 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullGateway|sap|external|1.0
+14:29:22,099 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@50814668
+14:29:22,174 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:22,229  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Gather.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:22,272 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullGather|sap|external|1.0
+14:29:22,316 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@38652ae0
+14:29:22,344 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:22,437  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\GZIPDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:22,514 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDecoder|sap|external|1.0
+14:29:22,546 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@3d004a82
+14:29:22,585 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:22,679  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\GZIPEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:22,764 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEncoder|sap|external|1.0
+14:29:22,792 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@3ca8083e
+14:29:22,818 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:22,849  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\HTTPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:22,961 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullHTTP|sap|external|1.0
+14:29:22,991 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@2a4c63c1
+14:29:23,061 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:23,176  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\HttpSenderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:23,236 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullHTTPS|sap|external|1.0
+14:29:23,282 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@50d8d6c6
+14:29:23,319 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:23,365  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\IDocComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:23,447 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullIDOC|sap|external|1.0
+14:29:23,550 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@4b3d199
+14:29:23,686 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:23,768  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\IflowConfiguration.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:23,919 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullIFlowConfiguration|sap|external|1.0
+14:29:24,027 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@41f7f175
+14:29:24,183 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:24,385  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MailComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:24,532 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullMail|sap|external|1.0
+14:29:24,602 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@2d44319f
+14:29:24,715 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:24,795  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Mapping.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:25,016 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullMapping|sap|external|1.1
+14:29:25,141 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@1e29ff37
+14:29:25,165 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:25,191  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MessageDigest.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:25,264 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullMessageDigest|sap|external|1.0
+14:29:25,289 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@4093f9be
+14:29:25,390 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:25,441  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MIMEMultipartDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:25,620 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDecoder|sap|external|1.0
+14:29:25,646 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@6cb7a3d0
+14:29:25,699 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:25,773  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\MIMEMultipartEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:25,909 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEncoder|sap|external|1.0
+14:29:25,958 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@54777533
+14:29:25,983 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:26,010  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Multicast.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:26,240 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullGateway|sap|external|1.0
+14:29:29,752 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@3f70343d
+14:29:29,805 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:29,832  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ODataSenderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:29,866 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullODataSender|sap|external|1.0
+14:29:29,890 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@5b3ba131
+14:29:29,927 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:29,975  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Persist.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:30,013 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullPersist|sap|external|1.0
+14:29:30,049 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@b5f9368
+14:29:30,084 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:30,131  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ProcessCall.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:30,205 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullProcessCallElement|sap|external|1.0
+14:29:30,230 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@b674898
+14:29:30,268 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:30,357  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Script.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:30,394 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullScript|sap|external|1.0
+14:29:30,491 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@39c24efd
+14:29:30,594 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:30,744  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ServiceTask.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:30,894 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullServiceTask|sap|external|1.0
+14:29:31,035 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@2c462daf
+14:29:31,180 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:31,339  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SFSFComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:31,460 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSuccessFactors|sap|external|1.1
+14:29:31,505 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@c02c563
+14:29:31,610 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:31,722  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SFTPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:31,812 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSFTP|sap|external|1.0
+14:29:31,937 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@60dc295
+14:29:32,075 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:32,257  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerPKCS7.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:32,443 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSigner|sap|external|1.0
+14:29:32,476 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@70e6138a
+14:29:32,657 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:32,859  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerSimple.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:32,993 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSigner|sap|external|1.0
+14:29:33,161 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@61d990f1
+14:29:33,259 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:33,359  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SignerXMLDigital.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:33,477 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSigner|sap|external|1.0
+14:29:33,628 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@1b4eabf3
+14:29:33,745 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:33,878  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\SOAPComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:33,953 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSOAP|sap|external|1.0
+14:29:33,988 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@410647c7
+14:29:34,057 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:37,462  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Splitter.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:37,523 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSplitter|sap|external|1.0
+14:29:37,578 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@4232c3f0
+14:29:37,604 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:37,630  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\System.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:37,680 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullSystem|sap|external|1.0
+14:29:37,746 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@77fed9dd
+14:29:37,829 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:37,900  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\TwitterComponentMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:37,929 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullTwitter|SAP|external|1.0.0
+14:29:37,951 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@157fd921
+14:29:37,990 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:38,074  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\Verifier.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:38,185 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullVerifySign|sap|external|1.0
+14:29:38,290 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@15818812
+14:29:38,319 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:38,367  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\WriteVariables.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:38,401 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullVariables|sap|external|1.0
+14:29:38,423 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@11bd0cee
+14:29:38,469 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:38,574  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\XmlValidator.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:38,683 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullXmlValidator|sap|external|1.0
+14:29:38,708 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@32002bfa
+14:29:38,763 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:38,925  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ZIPDecoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:39,037 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullDecoder|sap|external|1.0
+14:29:41,187 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@30a11adc
+14:29:41,231 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:41,255  INFO profiles:84 - com.sap.it.ide.rt.profiles - 0 - input streamC:\Users\Michelle\Documents\Introduction to webtechnology\eclipse-jee-luna-SR1a-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1381\0\.cp\resource\cmd\iflmap\ZIPEncoderMetadata.xml  com.sap.it.ide.rt.profiles_2.16.4 [1381]
+14:29:41,295 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Component Metadata Reference is not nullEncoder|sap|external|1.0
+14:29:41,373 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - bpmnstreamjava.io.FileInputStream@30379124
+14:29:41,450 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - component managercom.sap.it.cmd.api.impl.ComponentMetadataManagerImpl@29688abc
+14:29:42,300 ERROR profiles:84 - com.sap.it.ide.rt.profiles - 0 - Unable to fetch list of tenants
+[Command][CommandClient][ServerNotConfigured]:Failed to create command Client. Server is not configured.
+com.sap.it.commons.command.eclipsechannel.ServerNotConfiguredException: [Command][CommandClient][ServerNotConfigured]:Failed to create command Client. Server is not configured.
+	at com.sap.it.commons.command.eclipsechannel.simplepref.controls.HttpServerConnection.createSynchronousProcessor(HttpServerConnection.java:180)
+	at com.sap.it.commons.command.eclipsechannel.backend.impl.BackendCommandDispatcherFactoryImpl.grantBackendCommandDispatcher(BackendCommandDispatcherFactoryImpl.java:92)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher.fetchAllRTProfiles(RuntimeProfilesFetcher.java:116)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher.fetchAllRTProfiles(RuntimeProfilesFetcher.java:102)
+	at com.sap.it.ide.rt.profiles.actions.RuntimeProfilesFetcher$9.run(RuntimeProfilesFetcher.java:729)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:167)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:165)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
